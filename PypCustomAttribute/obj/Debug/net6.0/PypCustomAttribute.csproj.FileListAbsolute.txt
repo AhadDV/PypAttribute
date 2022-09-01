@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\bin\Debug\net6.0\PypCustomAttribute.exe
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\bin\Debug\net6.0\PypCustomAttribute.deps.json
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\bin\Debug\net6.0\PypCustomAttribute.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\bin\Debug\net6.0\PypCustomAttribute.dll
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\bin\Debug\net6.0\PypCustomAttribute.pdb
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.dll
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\refint\PypCustomAttribute.dll
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.pdb
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\PypCustomAttribute.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\PypCustomAttribute\PypCustomAttribute\obj\Debug\net6.0\ref\PypCustomAttribute.dll
